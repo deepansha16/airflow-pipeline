@@ -4,7 +4,7 @@
 ## Overview
 - [Introduction](#Introduction)
 - [Aim](#Aim)
-- [Technologies](#Technologies Used)
+- [Technologies](#Technologies)
 - [Data Source](#data-source)
 - [Workflow](#project-workflow)
 
@@ -19,7 +19,7 @@ The primary objective is to build a data pipeline that ingests data from S3 to R
 For more information on the project's technical details and configuration, refer to the provided documentation and `dwh.cfg` file.
 
 ***
-### Technologies Used
+### Technologies 
 
 - **Apache Airflow**: Apache Airflow is used to programmatically author, schedule, and monitor workflows. It allows for the creation of workflows as directed acyclic graphs (DAGs) of tasks, with a scheduler to execute tasks based on dependencies. Airflow provides a rich user interface for visualizing pipeline execution and monitoring progress.
 
