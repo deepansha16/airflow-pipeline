@@ -1,13 +1,5 @@
 #  Building Data Pipelines with Airflow, AWS S3 and Redshift
 
-
-## Overview
-- [Introduction](#Introduction)
-- [Aim](#Aim)
-- [Technologies](#Technologies)
-- [Data Source](#data-source)
-- [Workflow](#project-workflow)
-
 ### Introduction
 
 Sparkify, a music streaming company, is embarking on a project to enhance their data warehouse ETL pipelines by introducing automation, monitoring, and data quality checks. They have identified Apache Airflow as the ideal tool for achieving these objectives.
