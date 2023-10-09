@@ -21,7 +21,7 @@ For more information on the project's technical details and configuration, refer
 ***
 ### Technologies 
 
-- **Apache Airflow**: Apache Airflow is used to programmatically author, schedule, and monitor workflows. It allows for the creation of workflows as directed acyclic graphs (DAGs) of tasks, with a scheduler to execute tasks based on dependencies. Airflow provides a rich user interface for visualizing pipeline execution and monitoring progress.
+- **[Airflow](https://airflow.apache.org/)**: Apache Airflow is used to programmatically author, schedule, and monitor workflows. It allows for the creation of workflows as directed acyclic graphs (DAGs) of tasks, with a scheduler to execute tasks based on dependencies. Airflow provides a rich user interface for visualizing pipeline execution and monitoring progress.
 
 - **AWS S3 (Amazon Simple Storage Service)**: S3 is used to store and protect data for various use cases. In this project, song and log data files are stored in public S3 buckets, with file paths specified in the `dwh.cfg` configuration file.
 
